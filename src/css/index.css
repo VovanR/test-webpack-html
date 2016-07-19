@@ -11,4 +11,9 @@ body {
 	font-size: 10vh;
 	font-weight: bold;
 	cursor: default;
+	transition: font-size ease-in-out 0.1s 0.15s;
+
+	&:hover {
+		font-size: 12vh;
+	}
 }

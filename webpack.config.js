@@ -39,6 +39,7 @@ module.exports = {
 	},
 	postcss: function () {
 		return [
+			require('postcss-nesting')(),
 			require('autoprefixer')({browsers: ['last 2 versions', 'ie >= 11'], cascade: false}),
 			require('postcss-csso')()
 		];
