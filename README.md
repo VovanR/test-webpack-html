@@ -2,6 +2,8 @@
 
 > My webpack HTML playground
 
+Demo: [vovanr.github.io/test-webpack-html][demo]
+
 - [HTML Webpack Plugin](https://github.com/ampedandwired/html-webpack-plugin)
 - [extract text plugin for webpack](https://github.com/webpack/extract-text-webpack-plugin)
 - [PostCSS](https://github.com/postcss/postcss)
