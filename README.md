@@ -25,3 +25,8 @@ npm run build
 npm start
 ```
 Open [localhost:8080/webpack-dev-server](http://localhost:8080/webpack-dev-server/)
+
+## License
+MIT © [Vladimir Rodkin](https://github.com/VovanR)
+
+[demo]: http://vovanr.github.io/test-webpack-html
