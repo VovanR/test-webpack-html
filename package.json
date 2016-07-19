@@ -1,15 +1,10 @@
 {
-  "name": "webpack-html-plugin",
-  "version": "0.0.0",
+  "name": "test-webpack-html",
   "description": "My webpack HTML playground",
-  "main": "index.js",
   "scripts": {
     "build": "webpack",
-    "start": "webpack --watch"
+    "start": "webpack-dev-server"
   },
-  "keywords": [],
-  "author": "Vladimir Rodkin <mail@vovanr.com> (http://vovanr.com/)",
-  "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^6.3.7",
     "css-loader": "^0.23.1",
@@ -19,6 +14,7 @@
     "postcss-loader": "^0.9.1",
     "postcss-nesting": "^2.3.1",
     "style-loader": "^0.13.1",
-    "webpack": "^1.13.1"
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
   }
 }
