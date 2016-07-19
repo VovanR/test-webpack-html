@@ -3,7 +3,7 @@
   "description": "My webpack HTML playground",
   "scripts": {
     "build": "webpack",
-    "deploy": "gh-pages-deploy"
+    "deploy": "gh-pages-deploy",
     "start": "webpack-dev-server"
   },
   "devDependencies": {
